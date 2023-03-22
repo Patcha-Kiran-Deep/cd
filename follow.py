@@ -1,4 +1,4 @@
-E = 'Є'
+E = 'E'
 is_terminal = lambda x: not x.isupper() or x==E
 prods = {}
 first_set = {}
